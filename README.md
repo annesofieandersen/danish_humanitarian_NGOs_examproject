@@ -1,2 +1,6 @@
 # syriandeportations_examproject
-Github repo for our exam project in Digital Methods and ASDS2 
+Github repo for our exam project in Digital Methods and ASDS2
+
+# Introduction
+
+hi
