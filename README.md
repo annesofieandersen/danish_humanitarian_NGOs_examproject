@@ -9,4 +9,7 @@ By Nadia Schouw, Victoria Hjørtoft, and Sofie Andersen
 **What themes dominate the Danish humanitarian NGO’s in their communication on social media platforms during the Covid-19 pandemic and how do the NGO's interrelate on social media during this time?**
 
 
+What theme are active and how do they interrelate 
+Who dominates and who are peripheral to the conversation?
+
 
