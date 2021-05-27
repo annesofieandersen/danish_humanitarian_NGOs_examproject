@@ -20,6 +20,8 @@ By Nadia Schouw, Victoria Hjørtoft, and Sofie Andersen
 
 # Methodological design 
 
+*1 page*
+
 * They say to include key points/findings here ?? 
 
 ## Data collection and sampling 
