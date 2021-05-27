@@ -4,7 +4,7 @@ By Nadia Schouw, Victoria Hjørtoft, and Sofie Andersen
 
 # Introduction
 
-* 0,75 p *
+*0,75 p*
 
 ## Research Question
 
@@ -12,7 +12,7 @@ By Nadia Schouw, Victoria Hjørtoft, and Sofie Andersen
 
 # Framework and state of the art
 
-* 1/2-1 page * 
+*1/2-1 page* 
 
 * Remember to motivate the RQ via both syllabus + self-chosen literature on ‘state-of-the-art’
 
@@ -28,17 +28,17 @@ By Nadia Schouw, Victoria Hjørtoft, and Sofie Andersen
 
 ## Netnography
 
-* 3 pages * 
+*3 pages* 
 
 ## Visual/exploratory network analysis
 
-* 3 pages * 
+*3 pages* 
 
 Both VNA and SNA's 
 
 ## Content analysis 
 
-* 3 pages *
+*3 pages*
 
 ### PCA 
 
@@ -46,17 +46,17 @@ Both VNA and SNA's
 
 # ASDS 2 
 
-* 5 pages * 
+*5 pages* 
 
 ## LDA 
 
 # Quali-quantitative integration across methods
 
-* 2 pages * 
+*2 pages* 
 
 # Conclusion (and discussion)
 
-* 1/2 page *
+*1/2 page*
 
 
 
