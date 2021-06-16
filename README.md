@@ -3,7 +3,9 @@
 *By Nadia Schouw, Victoria Hjørtoft and Sofie Andersen*
 
 Exam numbers in Digital Methods: 13, 24, and 29
+
 Exam numbers in ASDS II: 6, 12, and 18
+
 
 **Characters in total: 47,992** 
 
@@ -15,12 +17,14 @@ What dominate the Danish humanitarian NGOs’ focuses in their communication on 
 
 ## 2.1 Problem statements (29, 24, 13)
 
-Digital methods
+**Digital methods**
 * What is prominent in the Danish humanitarian NGOs communication across different social media platforms and how are the NGOs thematically clustered in relation to each other?
-Based on different types of network analysis, what is the interrelations between Danish humanitarian NGOs on different social media platforms?
-ASDS II
-Which topics are present in the communication of the Danish humanitarian NGOs during Covid-19 on Twitter?
-What classifies the Danish humanitarian NGOs’ communication on Twitter during Covid-19?
+* Based on different types of network analysis, what is the interrelations between Danish humanitarian NGOs on different social media platforms?
+**ASDS II**
+* Which topics are present in the communication of the Danish humanitarian NGOs during Covid-19 on Twitter?
+* What classifies the Danish humanitarian NGOs’ communication on Twitter during Covid-19?
+
+
 The problem statements will be used throughout the paper to investigate the overall research question. Notably, the questions will not be answered in chronological order, but will serve as an overall framework.
 
 # 3 State of the art (29)
