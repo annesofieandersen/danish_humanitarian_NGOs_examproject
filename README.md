@@ -1,4 +1,4 @@
-# An Exploratory Study of the Social Media Activity of Danish Humanitarian NGO's During Covid-19
+# An Exploratory Study of the Danish Humanitarian NGOs' Communication on Social Media During Covid-19
 
 *By Nadia Schouw, Victoria Hjørtoft and Sofie Andersen*
 
