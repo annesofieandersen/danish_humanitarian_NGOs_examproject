@@ -1,64 +1,7 @@
 # Exploration of Danish humanitarian NGO's during Covid-19 
 
-By Nadia Schouw, Victoria Hjørtoft, and Sofie Andersen
-
-# Introduction
-
-*0,75 p*
-
-## Research Question
-
-**What themes are active and dominate the Danish humanitarian NGO’s communication on social media platforms during the Covid-19 pandemic and how do the NGO's including their communication interrelate on social media during this time?**
-
-# Framework and state of the art
-
-*1/2-1 page* 
-
-* Remember to motivate the RQ via both syllabus + self-chosen literature on ‘state-of-the-art’
-
-## Human Sustainability
-
-# Methodological design 
-
-*1 page*
-
-* They say to include key points/findings here ?? 
-
-## Data collection and sampling 
-
-# Analysis findings 
-
-## Netnography
-
-*3 pages* 
-
-## Visual/exploratory network analysis
-
-*3 pages* 
-
-Both VNA and SNA's 
-
-## Content analysis 
-
-*3 pages*
-
-### PCA 
-
-
-
-# ASDS 2 
-
-*5 pages* 
-
-## LDA 
-
-# Quali-quantitative integration across methods
-
-*2 pages* 
-
-# Conclusion (and discussion)
-
-*1/2 page*
+# 1 Introduction (29,24,13)
+Humanitarian non-governmental organizations (NGOs) handle aid, communicate about crises and provide support for vulnerable people, criticizing injustice and fighting for social and humanitarian sustainability. The NGOs are playing an important role in society affecting political agendas and setting the public debate (Schäfer 2012). In a time of crisis, where the Covid-19 pandemic rages and more people are distressed, the NGOs are facing new emergencies embedded in all previous existing ones. Consequently, the NGOs must fight for their agendas, while also being financially challenged due to fewer lucrative activities and more people in need of help. This fight has partially taken place on social media, as these platforms play an increasingly important role in political communication including both agenda setting, decision making and public dialogue (Yang et al. 2016). In the context of these new challenges, we will in this paper map the public debate of the Danish humanitarian NGOs across social media platforms during Covid-19 to understand how the NGOs communicate and interrelate under these circumstances by making an empirical quanti-qualitative in-depth analysis.
 
 
 
